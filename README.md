@@ -2,7 +2,7 @@
 
 ## Preview
 
-![AmigaWebGuru-Preview](Docs/image/amigaguru.png)
+![AmigaWebGuru-Preview](Docs/image/preview.gif)
 
 ## Description
 Simulates a amiga guru on a website. 
