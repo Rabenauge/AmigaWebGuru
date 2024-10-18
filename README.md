@@ -15,7 +15,7 @@ And the shown memory adresses are of course totally bogus.
 
 ## Installation
 
-None, as it is all in one pager. CSS,js,and HTML in file. 
+None, as it is all in a one-pager. CSS,js,and HTML in a single file. 
 Just add it where you want and call the index.html file with a browser.   
 
 
