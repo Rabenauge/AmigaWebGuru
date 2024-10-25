@@ -18,4 +18,19 @@ And the shown memory adresses are of course totally bogus.
 None, as it is all in a one-pager. CSS,js,and HTML in a single file. 
 Just add it where you want and call the index.html file with a browser.   
 
+## Vertical position on top
+
+If you want to be more accurate and want a guru on the top of your page.
+Just change the line 27 from the index.html
+
+``
+height: 100vh;
+``
+
+to
+
+``
+height: 0%;
+``
+
 
